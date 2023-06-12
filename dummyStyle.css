@@ -1,0 +1,95 @@
+ 
+
+  body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 30px;
+  }
+  
+/* Title */
+
+.title {
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+  .form-group{
+   font-weight: bold;
+   margin-top: 20px;
+
+  }
+ 
+  label {
+    display: block;
+    margin-bottom: 5px;  
+  }
+
+
+
+#resumeForm{ 
+  
+  /* display:none; */
+
+}
+
+#resumeTemplate{
+  /* display:none; */
+}
+  
+  /* template */
+
+  .background{
+    background-color:rgb(250, 181, 204);
+    text-emphasis-color: white;
+    border-radius: 20px;
+    border-color: black 10px;
+}
+
+.background2, .careerObjField{
+  background-color:rgb(245, 166, 192);
+  color: black;
+  font-weight: bold;
+  font-style: inherit;
+  border-radius: 20px;
+
+}
+  .hidden {
+    display: none;
+  }
+
+ 
+/* image */
+.myimg{
+  border:1px solid rgb(2, 1, 1); 
+  border-radius:100%;
+  width:180px;
+}
+  
+/* .objectiveField{
+  display: flexbox;
+} */
+
+
+.myimg{
+  border:1px solid rgb(2, 1, 1); 
+  border-radius:100%;
+  width:180px;
+}
+  
+
+#langList {
+  margin: 0;
+  padding: 0;
+}
+
+#langList li {
+  margin-bottom: 0px; /* Adjust the value as needed */
+}
+
+
+.careerObjField{
+  font-style: italic;
+}
+
+
+
